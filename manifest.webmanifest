@@ -1,0 +1,16 @@
+{
+  "name": "Sanchi Dugdh Order Management",
+  "short_name": "Sanchi Admin",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F3F7FA",
+  "theme_color": "#172A9B",
+  "icons": [
+    {
+      "src": "public/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
